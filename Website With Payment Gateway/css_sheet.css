@@ -1,0 +1,100 @@
+#nav
+{
+    overflow: hidden;
+    background-color: hsla(89, 43%, 51%, 0.3);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#spa
+{
+    float: left;
+    padding-top: 5px;
+    padding-bottom:0px
+}
+.active
+{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Pangolin', cursive;
+}
+.active:hover
+{
+    background-color: #111;
+    color: white;
+}
+.img2
+{
+    float:left;
+    margin-right: 16px;
+    margin-top: 0px;
+}
+.ar
+{
+    margin-top: 70px;
+    margin-left: 20px;
+    font-family: 'Pangolin', cursive;
+    margin-bottom: 70px;
+    font-size: 15px;
+}
+.footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #04AA6D;
+    color: white;
+    text-align: center;
+}
+#covid
+{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+.about
+{
+    width:1000px;
+    background-color: rgba(255, 99, 71, 0.5);
+    height: 400px;
+    margin-left: 250px;
+    color:black;
+    border-radius: 20px;
+    margin-top: 50px
+}
+.img3
+{
+    float:right;
+    margin-top: 0px;
+    margin-right: 20px;
+}
+#cov
+{
+    margin-top: 70px;
+    margin-left: 20px;
+    font-family: 'Pangolin', cursive;
+    margin-bottom: 70px;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+.ai
+{
+    margin-top: 0px;
+    padding-top: 35px;
+    margin-left: 20px;
+    font-family: 'Pangolin', cursive;
+    margin-bottom: 70px;
+    font-size: 17px;
+}
+#h1
+{
+    font-size:40px;
+    color: yellow;
+}
